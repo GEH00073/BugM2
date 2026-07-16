@@ -1,11 +1,11 @@
-# 3Dプリンタ用データについて
+# 3D Printer Data
 
-このフォルダには、BugM2用の3Dプリントパーツデータを収録しています。
-出力後は、組み立て前に以下の点を確認してください。
+This folder contains the 3D printable part data for BugM2.
+After printing, check and finish the parts as needed before assembly.
 
-## 出力後の仕上げ
+## Post-Print Finishing
 
-- 各パーツの軸穴は、0.6mmのドリルで軽く通して整えてください。
-- 軸には、0.5mmのステンレスシャフトを使用してください。
-- 各パーツは象足現象への対策として、造形時に少し浮かせた状態にしています。出力後、必要に応じて余分な部分をカットしてください。
-- ビルドプレートへの密着設定は、ブリムの使用を推奨します。
+- Clean each axle hole with a 0.6 mm drill bit.
+- Use 0.5 mm stainless steel shafts for the axles.
+- The parts are slightly raised to help reduce elephant's foot. Trim any extra material after printing as needed.
+- A brim is recommended for build plate adhesion.
